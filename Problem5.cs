@@ -11,7 +11,6 @@ namespace Problem1
         {
             double prod = 1.0;
             if (x == 1 || n == 0) return 1;
-            if (n <= int.MinValue) return 0;
             if (x == -1)
             {
                 if (n % 2 == 0)
@@ -21,9 +20,9 @@ namespace Problem1
                     return -prod;
                 }
             }
+            if (n <= int.MinValue) return 0;
 
-
-            if (n > 0)
+                      if (n > 0)
             {
                 for (int i = 0; i < n; i++)
                 {
