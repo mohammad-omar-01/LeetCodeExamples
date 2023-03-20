@@ -1,0 +1,13 @@
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.csprojAssemblyReference.cache
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.AssemblyInfoInputs.cache
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.AssemblyInfo.cs
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\bin\Debug\netcoreapp3.1\LeetCodeExam.exe
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\bin\Debug\netcoreapp3.1\LeetCodeExam.deps.json
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\bin\Debug\netcoreapp3.1\LeetCodeExam.runtimeconfig.json
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\bin\Debug\netcoreapp3.1\LeetCodeExam.runtimeconfig.dev.json
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\bin\Debug\netcoreapp3.1\LeetCodeExam.dll
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\bin\Debug\netcoreapp3.1\LeetCodeExam.pdb
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.dll
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.pdb
+C:\Users\Mohammad Omar\Desktop\InternShip\LeetCode\LeetCodeExam\obj\Debug\netcoreapp3.1\LeetCodeExam.genruntimeconfig.cache
